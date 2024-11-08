@@ -1,0 +1,17 @@
+.logoBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 55px;
+}
+.logoImg {
+  margin: 0;
+}
+.logoText {
+  display: inline-block;
+  margin: 0 0 0 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #dadada;
+  white-space: nowrap;
+}
